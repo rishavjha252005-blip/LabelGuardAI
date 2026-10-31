@@ -1,0 +1,9 @@
+SurgiPro Surgical Blade
+Manufacturer: Demo Medical Devices Ltd.
+REF: SP-100
+LOT: A12345
+UDI: (01)08901234567893
+STERILE EO
+Do not re-sterilize.
+Read instructions for use.
+Use only if package is intact.
